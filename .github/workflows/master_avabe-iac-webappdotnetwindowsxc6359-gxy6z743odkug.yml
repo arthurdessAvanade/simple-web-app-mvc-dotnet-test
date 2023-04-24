@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AVABE-IAC-webAppDotnetWindowsxc6359-gxy6z743odkug'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_79612BDEEDBA47A182E8F20E689F69E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0032845550C84799A1E7DD04D6711916 }}
           package: .
